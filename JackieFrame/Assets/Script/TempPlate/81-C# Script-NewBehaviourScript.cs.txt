@@ -1,0 +1,36 @@
+﻿/****************************************************
+  *  Copyright © #SMARTDEVELOPERS# All rights reserved.
+ *------------------------------------------------------------------------
+ *  作者：#AUTHORNAME#
+ *  邮箱: Jackiechenzhichao@163.com
+ *  日期：#CREATETIME#
+ *  项目：#PROJECTNAME#
+ *  功能：Nothing
+*****************************************************/
+
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Jackie
+{
+    public class #SCRIPTNAME#: MonoBehaviour
+    {
+
+        void Awake()
+        {
+
+        }
+
+        void Start()
+        {
+
+        }
+
+        void Update()
+        {
+
+        }
+    }
+}

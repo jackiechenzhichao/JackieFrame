@@ -1,0 +1,7 @@
+{
+"EXCEL":"../excel",
+"CODE":"../../../Assets/Script/Table",
+"CLIENT_PB":"../../../Assets/StreamingAssets/Table",
+"NAMESPACE":"fs",
+EXTENSION:[".xls",".xlsx",".xlsm"],
+}

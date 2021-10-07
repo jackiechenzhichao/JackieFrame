@@ -1,0 +1,19 @@
+﻿NullReferenceException: Object reference not set to an instance of an object
+fs.AudioTool.LoadAllClip (System.Boolean isAsync) (at Assets/JackieFrameWork/AudioModules/AudioTool.cs:630)
+fs.AudioTool.Awake () (at Assets/JackieFrameWork/AudioModules/AudioTool.cs:92)
+UnityEngine.GameObject:AddComponent()
+GameMain:OnInit() (at Assets/Script/GameMain.cs:45)
+GameMain:Awake() (at Assets/Script/GameMain.cs:14)
+
+[info]加载配置表:StdGlobalValue frame:0
+[info]加载配置表:StdGlobalValue frame:0
+[info]加载配置表:StdGridReward frame:0
+[info]加载配置表:StdGridReward frame:0
+Cannot add menu item 'GameObject/UI/Text' for method 'MenuOptions.AddText' because a menu item with the same name already exists.
+Cannot add menu item 'GameObject/UI/Image' for method 'MenuOptions.AddImage' because a menu item with the same name already exists.
+Cannot add menu item 'GameObject/UI/Button' for method 'MenuOptions.AddButton' because a menu item with the same name already exists.
+KeyNotFoundException: The given key was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <9577ac7a62ef43179789031239ba8798>:0)
+Jackie.MonoObjectManager.Update () (at Assets/JackieFrameWork/ObjectModules/MonoObjectManager.cs:53)
+GameMain.Update () (at Assets/Script/GameMain.cs:25)
+
